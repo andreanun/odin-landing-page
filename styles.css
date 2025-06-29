@@ -150,3 +150,47 @@
   color: #1f2937;
   text-align: right;
 }
+
+.cta-section {
+  padding: 80px 100px;
+}
+
+.cta-container {
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  border-radius: 10px;
+  padding: 40px 80px;
+}
+
+.cta-text h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.cta-text p {
+  font-size: 18px;
+  margin: 5px 0 0 0;
+}
+
+.cta-button {
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 30px;
+  border: 2px solid white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.footer {
+  color: #e5e7eb;
+  background-color: #1f2937;
+  padding: 30px 0;
+  font-size: 16px;
+  text-align: center;
+}
